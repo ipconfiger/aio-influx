@@ -61,5 +61,4 @@ func list:
 
 
 ## Notice
-    This project started for own useage. My goal is make it simple and easy to use, it's not full functional for InfluxDB v2 API. If you like it, Pls star, and tell me your
-needs in issuse, I will try my best to make it happen. 
+This project started for own useage. My goal is make it simple and easy to use, it's not full functional for InfluxDB v2 API. If you like it, Pls star, and tell me yourneeds in issuse, I will try my best to make it happen. 
